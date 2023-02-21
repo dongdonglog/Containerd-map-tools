@@ -6,6 +6,8 @@
 #### 软件架构
 软件架构说明
 
+### 快速上手（预安装好docker环境）
+1.  docker run -p 5000:5000 -d donglog/myflaskapp
 
 #### 安装教程
 
